@@ -7,4 +7,6 @@ requires-python = ">=3.14"
 dependencies = [
     "matplotlib>=3.10.8",
     "pandas>=3.0.1",
+    "tensorboard>=2.20.0",
+    "torch>=2.10.0",
 ]
